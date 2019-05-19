@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>SSRTOOL</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-05-19T06:22:50.926Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Pavel Durov</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>欢迎</title>
+    <link href="http://yoursite.com/683724/"/>
+    <id>http://yoursite.com/683724/</id>
+    <published>2019-05-19T06:22:50.926Z</published>
+    <updated>2019-05-19T06:22:50.926Z</updated>
+    
+    <content type="html"><![CDATA[<p>欢迎来到 SSRTOOL 博客，这里会用来发布教程和公告。为了防止失联。博客会更新镜像域名。请收藏我们的博客！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;欢迎来到 SSRTOOL 博客，这里会用来发布教程和公告。为了防止失联。博客会更新镜像域名。请收藏我们的博客！&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
