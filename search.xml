@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[欢迎]]></title>
+    <url>%2Fp%2Fwelcome%2F</url>
+    <content type="text"><![CDATA[欢迎来到 SSRTOOL 博客，这里会用来发布教程和公告。为了防止失联。博客会更新镜像域名。请收藏我们的博客！]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[镜像域名]]></title>
-    <url>%2F580320%2F</url>
+    <url>%2Fp%2Fdomain%2F</url>
     <content type="text"><![CDATA[主域名 (需要代理访问，但是永不变更，请牢记):论坛 https://www.ssrshare.com小工具主域名 https://www.ssrtool.com 镜像域名论坛https://www.ssrshare.us（使用代理可正常使用） SSR小工具https://www.ssrgo.ml (正常，中国大陆可用)https://tool.ssrshare.us （SSRTOOL 2号站。主站无法访问可以访问此站，但仍需使用代理访问）请尽量访问源站,防止本镜像站再次被污染 由于不可抗力的因素,镜像域名随时可能会变更,请记住我们主域名 手动修改 pac.txt 添加 我们网站的域名 到规则即可 或者直接使用我们提供的 pac 文件 https://www.ssrshare.com/threads/pac.527/]]></content>
       <tags>
         <tag>域名</tag>
       </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[欢迎]]></title>
-    <url>%2F683724%2F</url>
-    <content type="text"><![CDATA[欢迎来到 SSRTOOL 博客，这里会用来发布教程和公告。为了防止失联。博客会更新镜像域名。请收藏我们的博客！]]></content>
   </entry>
 </search>
