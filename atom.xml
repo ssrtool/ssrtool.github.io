@@ -14,6 +14,7 @@
     
   </author>
   
+  
   <entry>
     <title>欢迎</title>
     <link href="https://ssrtool.github.com/p/welcome/"/>
@@ -62,9 +63,9 @@
     <link href="https://ssrtool.github.com/p/domain/"/>
     <id>https://ssrtool.github.com/p/domain/</id>
     <published>2019-05-19T06:55:45.000Z</published>
-    <updated>2019-07-02T17:10:37.454Z</updated>
+    <updated>2019-07-25T15:30:26.189Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="主域名-需要代理访问，但是永不变更，请牢记"><a href="#主域名-需要代理访问，但是永不变更，请牢记" class="headerlink" title="主域名 (需要代理访问，但是永不变更，请牢记):"></a>主域名 (需要代理访问，但是永不变更，请牢记):</h3><p>论坛 <a href="https://www.ssrshare.com" target="_blank" rel="noopener">https://www.ssrshare.com</a><br>小工具主域名 <a href="https://www.ssrtool.com" target="_blank" rel="noopener">https://www.ssrtool.com</a></p><hr><h3 id="镜像域名"><a href="#镜像域名" class="headerlink" title="镜像域名"></a>镜像域名</h3><h4 id="论坛"><a href="#论坛" class="headerlink" title="论坛"></a>论坛</h4><p><a href="https://www.ssrshare.us" target="_blank" rel="noopener">https://www.ssrshare.us</a> （使用代理可正常使用） </p><h4 id="SSR小工具"><a href="#SSR小工具" class="headerlink" title="SSR小工具"></a>SSR小工具</h4><p><a href="https://www.raws.tk" target="_blank" rel="noopener">https://www.raws.tk</a> (正常，中国大陆可用)<br><a href="https://tool.ssrshare.us" target="_blank" rel="noopener">https://tool.ssrshare.us</a> （SSRTOOL 2号站。主站无法访问可以访问此站，但仍需使用代理访问）<br>请尽量访问源站,防止本镜像站再次被污染 由于不可抗力的因素,镜像域名随时可能会变更,请记住我们主域名<br>手动修改 pac.txt 添加 我们网站的域名 到规则即可 或者直接使用我们提供的 pac 文件 <a href="https://www.ssrshare.com/threads/pac.527/" target="_blank" rel="noopener">https://www.ssrshare.com/threads/pac.527/</a>  </p>]]></content>
+    <content type="html"><![CDATA[<h3 id="主域名-需要代理访问，但是永不变更，请牢记"><a href="#主域名-需要代理访问，但是永不变更，请牢记" class="headerlink" title="主域名 (需要代理访问，但是永不变更，请牢记):"></a>主域名 (需要代理访问，但是永不变更，请牢记):</h3><p>论坛 <a href="https://www.ssrshare.com" target="_blank" rel="noopener">https://www.ssrshare.com</a><br>小工具主域名 <a href="https://www.ssrtool.com" target="_blank" rel="noopener">https://www.ssrtool.com</a></p><hr><h3 id="镜像域名"><a href="#镜像域名" class="headerlink" title="镜像域名"></a>镜像域名</h3><h4 id="论坛"><a href="#论坛" class="headerlink" title="论坛"></a>论坛</h4><p><a href="https://www.ssrshare.us" target="_blank" rel="noopener">https://www.ssrshare.us</a> （使用代理可正常使用） </p><h4 id="SSR小工具"><a href="#SSR小工具" class="headerlink" title="SSR小工具"></a>SSR小工具</h4><p><a href="https://www.akgs.ml" target="_blank" rel="noopener">https://www.akgs.ml</a> (正常，中国大陆可用)<br><a href="https://tool.ssrshare.us" target="_blank" rel="noopener">https://tool.ssrshare.us</a> （SSRTOOL 2号站。主站无法访问可以访问此站，但仍需使用代理访问）<br>请尽量访问源站,防止本镜像站再次被污染 由于不可抗力的因素,镜像域名随时可能会变更,请记住我们主域名<br>手动修改 pac.txt 添加 我们网站的域名 到规则即可 或者直接使用我们提供的 pac 文件 <a href="https://www.ssrshare.com/threads/pac.527/" target="_blank" rel="noopener">https://www.ssrshare.com/threads/pac.527/</a>  </p>]]></content>
     
     <summary type="html">
     
