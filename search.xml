@@ -1,21 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title><![CDATA[欢迎]]></title>
-    <url>%2Fp%2Fwelcome%2F</url>
-    <content type="text"><![CDATA[欢迎来到 SSRTOOL 博客，这里会用来发布教程和公告。为了防止失联。博客会更新镜像域名。请收藏我们的博客！ 论坛www.ssrshare.com 邮箱help@ssrtool.tk Telegramhttps://t.me/ssrshare]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[SSRTOOL 问卷调查回复]]></title>
-    <url>%2Fp%2Ffeedbackreply%2F</url>
-    <content type="text"><![CDATA[SSRTOOL.COM 问卷调查回复界面优化一下，看起来简洁、一目了然。还有网站连接速度优化。DM:关于界面，计划下一版本前端使用使用vue重写。为了网站安全性牺牲了网站连接速度2333日后再考虑优化 把翻墙党搞垮？DM:┓( ´∀` )┏Pavel Durov : 退出以表示支持，我们会自动采集他频道和群组内的节点并自动检测发出。无需加入他的频道 很好，能做到这样非常好了，如果能按国家查找可用的节点就更好DM:TODO #1对墙的反应快一点DM:预算不够 服务器性能有限，只能这样了 ┓( ´∀` )┏ 尝试甩锅 ，如果有人捐赠服务器用于检测那就可以解决了，当然我也一直在尝试新的检测算法~ #2更多更準確的節點，有的節點標明可用導入發現並不可用DM:数据仅供参考XD #3iOS捷径可以加入判断是否ping通的条件，然后把不通的节点给删了，每次用iOS捷径导入Shadowrocket总是非常长长的列表然而真正能ping通的节点不是全部然后又得手动删了那些没用的节点DM:不建议过度依赖订阅链接，推荐上网站手动获取 希望节点能更快DM:能上个google已经够了，不要想着免费公开的能有太快，毕竟公开的节点都是万人骑 苟住DM:尽量 ssrtool网站在北京无法访问，翻墙也不行，只能访问镜像网站DM:墙中墙？不太懂XD 懒癌患者改改UI吧~~~~ 顺便希望加点TG 代理DM:TG代理一直没有完美的检测方案，而且都是爬虫自动爬取，所以数量和质量没有太大保障。等一个java可用的TG代理检测方法。 SSR测试可用性不准确；无法自定义订阅线路DM:在线检测数据仅供参考，请以本地测试为准。本站不支持自定义路线。 字体是否能稍微大一点DM:不能 更新APP没提醒功能DM:APP不是我写的233333333333 甩锅。 翻墙站点多检测一下因为有很多不能用少数可以但是卡的一批DM:#1 请多测试节点连接可用性 谢谢DM:#1 捷径导入的节点，10个有9个是用不了的。望越做越好！DM:#1#2#3 可用高速稳定节点再增多一点，谢谢！DM:关注论坛免费SSR区，不定期发放破解VPN节点 高质量节点DM:你在想peach 速度速度速度。节点慢。DM:万人骑只保证能上google，其实有很多能看YTB 1080p的节点 这需要你们自己去寻找测试23333 以上意见我将在日后有空的时候进行优化改进，毕竟只是业余兴趣。本站所提供的节点均为互联网公开或者本人破解VPN提取节点所得，有快有慢 还请自行测试。本站完全免费（重点），我们靠着一点广告费勉强维持23333 最后服务器及CDN一直是靠群内苟管理和苟群主提供，感谢为翻墙事业贡献的人。感谢@lrinQVQ对本站的友情测试及改进意见感谢所有提建议以及经常光顾本站的朋友，谢谢支持。]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[镜像域名]]></title>
-    <url>%2Fp%2Fdomain%2F</url>
-    <content type="text"><![CDATA[主域名 (需要代理访问，但是永不变更，请牢记):论坛https://www.ssrshare.comhttps://www.ssrshare.us小工具主域名https://www.ssrtool.comhttps://www.ssrtool.net 镜像域名论坛https://tays.ml SSR小工具小工具 https://tays.ml/tool小工具移动版 https://m.tays.ml小工具安卓版 https://app.tays.ml 请尽量访问源站,防止本镜像站再次被污染 由于不可抗力的因素,镜像域名随时可能会变更,请记住我们主域名手动修改 pac.txt 添加 我们网站的域名 到规则即可 或者直接使用我们提供的 pac 文件 https://www.ssrshare.us/threads/pac.527/]]></content>
-      <tags>
-        <tag>域名</tag>
-      </tags>
-  </entry>
+<search> 
+  
+  
+    
+    <entry>
+      <title>欢迎</title>
+      <link href="/p/welcome/"/>
+      <url>/p/welcome/</url>
+      
+        <content type="html"><![CDATA[<p>欢迎来到 SSRTOOL 博客，这里会用来发布教程和公告。为了防止失联。博客会更新镜像域名。请收藏我们的博客！</p><p>论坛<br><a href="http://www.ssrshare.com" target="_blank" rel="noopener">www.ssrshare.com</a></p><p>邮箱<br><a href="mailto:help@ssrtool.tk" target="_blank" rel="noopener">help@ssrtool.tk</a></p><p>Telegram<br><a href="https://t.me/ssrshare" target="_blank" rel="noopener">https://t.me/ssrshare</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>SSRTOOL 问卷调查回复</title>
+      <link href="/p/feedbackreply/"/>
+      <url>/p/feedbackreply/</url>
+      
+        <content type="html"><![CDATA[<h3 id="SSRTOOL-COM-问卷调查回复"><a href="#SSRTOOL-COM-问卷调查回复" class="headerlink" title="SSRTOOL.COM 问卷调查回复"></a>SSRTOOL.COM 问卷调查回复</h3><p>界面优化一下，看起来简洁、一目了然。还有网站连接速度优化。<br>DM:关于界面，计划下一版本前端使用使用vue重写。为了网站安全性牺牲了网站连接速度2333日后再考虑优化</p><p>把翻墙党搞垮？<br>DM:┓( ´∀` )┏<br>Pavel Durov : 退出以表示支持，我们会自动采集他频道和群组内的节点并自动检测发出。无需加入他的频道</p><p>很好，能做到这样非常好了，如果能按国家查找可用的节点就更好<br>DM:TODO</p><p>#1对墙的反应快一点<br>DM:预算不够 服务器性能有限，只能这样了 ┓( ´∀` )┏ 尝试甩锅 ，如果有人捐赠服务器用于检测那就可以解决了，当然我也一直在尝试新的检测算法~</p><p>#2更多更準確的節點，有的節點標明可用導入發現並不可用<br>DM:数据仅供参考XD</p><p>#3iOS捷径可以加入判断是否ping通的条件，然后把不通的节点给删了，每次用iOS捷径导入Shadowrocket总是非常长长的列表然而真正能ping通的节点不是全部然后又得手动删了那些没用的节点<br>DM:不建议过度依赖订阅链接，推荐上网站手动获取</p><p>希望节点能更快<br>DM:能上个google已经够了，不要想着免费公开的能有太快，毕竟公开的节点都是万人骑</p><p>苟住<br>DM:尽量</p><p>ssrtool网站在北京无法访问，翻墙也不行，只能访问镜像网站<br>DM:墙中墙？不太懂XD</p><p>懒癌患者改改UI吧~~~~ 顺便希望加点TG 代理<br>DM:TG代理一直没有完美的检测方案，而且都是爬虫自动爬取，所以数量和质量没有太大保障。等一个java可用的TG代理检测方法。</p><p>SSR测试可用性不准确；无法自定义订阅线路<br>DM:在线检测数据仅供参考，请以本地测试为准。本站不支持自定义路线。</p><p>字体是否能稍微大一点<br>DM:不能</p><p>更新APP没提醒功能<br>DM:APP不是我写的233333333333 甩锅。</p><p>翻墙站点多检测一下因为有很多不能用少数可以但是卡的一批<br>DM:#1</p><p>请多测试节点连接可用性 谢谢<br>DM:#1</p><p>捷径导入的节点，10个有9个是用不了的。望越做越好！<br>DM:#1#2#3</p><p>可用高速稳定节点再增多一点，谢谢！<br>DM:关注论坛免费SSR区，不定期发放破解VPN节点</p><p>高质量节点<br>DM:你在想peach</p><p>速度速度速度。节点慢。<br>DM:万人骑只保证能上google，其实有很多能看YTB 1080p的节点 这需要你们自己去寻找测试23333</p><hr><p>以上意见我将在日后有空的时候进行优化改进，毕竟只是业余兴趣。本站所提供的节点均为互联网公开或者本人破解VPN提取节点所得，有快有慢 还请自行测试。本站完全免费（重点），我们靠着一点广告费勉强维持23333</p><h4 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h4><p>服务器及CDN一直是靠群内苟管理和苟群主提供，感谢为翻墙事业贡献的人。<br>感谢@lrinQVQ对本站的友情测试及改进意见<br>感谢所有提建议以及经常光顾本站的朋友，谢谢支持。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>镜像域名</title>
+      <link href="/p/domain/"/>
+      <url>/p/domain/</url>
+      
+        <content type="html"><![CDATA[<h3 id="主域名-需要代理访问，但是永不变更，请牢记"><a href="#主域名-需要代理访问，但是永不变更，请牢记" class="headerlink" title="主域名 (需要代理访问，但是永不变更，请牢记):"></a>主域名 (需要代理访问，但是永不变更，请牢记):</h3><p>论坛<br><a href="https://www.ssrshare.com" target="_blank" rel="noopener">https://www.ssrshare.com</a><br><a href="https://www.ssrshare.us" target="_blank" rel="noopener">https://www.ssrshare.us</a><br>小工具主域名<br><a href="https://www.ssrtool.com" target="_blank" rel="noopener">https://www.ssrtool.com</a><br><a href="https://www.ssrtool.net" target="_blank" rel="noopener">https://www.ssrtool.net</a></p><hr><h3 id="镜像域名"><a href="#镜像域名" class="headerlink" title="镜像域名"></a>镜像域名</h3><h4 id="论坛"><a href="#论坛" class="headerlink" title="论坛"></a>论坛</h4><p><a href="https://tutut.ml" target="_blank" rel="noopener">https://tutut.ml</a></p><h4 id="SSR小工具"><a href="#SSR小工具" class="headerlink" title="SSR小工具"></a>SSR小工具</h4><p>小工具 <a href="https://tutut.ml/tool" target="_blank" rel="noopener">https://tutut.ml/tool</a><br>小工具移动版 <a href="https://m.tutut.ml" target="_blank" rel="noopener">https://m.tutut.ml</a><br>小工具安卓版 <a href="https://app.tutut.ml" target="_blank" rel="noopener">https://app.tutut.ml</a></p><p>请尽量访问源站,防止本镜像站再次被污染 由于不可抗力的因素,镜像域名随时可能会变更,请记住我们主域名<br>手动修改 pac.txt 添加 我们网站的域名 到规则即可 或者直接使用我们提供的 pac 文件 <a href="https://www.ssrshare.us/threads/pac.527/" target="_blank" rel="noopener">https://www.ssrshare.us/threads/pac.527/</a>  </p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 域名 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
 </search>
