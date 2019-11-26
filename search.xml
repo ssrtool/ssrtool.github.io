@@ -13,7 +13,7 @@
   <entry>
     <title><![CDATA[镜像域名]]></title>
     <url>%2Fp%2Fdomain%2F</url>
-    <content type="text"><![CDATA[主域名 (需要代理访问，但是永不变更，请牢记):论坛https://www.ssrshare.comhttps://www.ssrshare.us小工具主域名https://www.ssrtool.comhttps://www.ssrtool.net 镜像域名论坛https://ttutt.ml SSR小工具小工具 https://ttutt.ml/tool小工具移动版 https://m.ttutt.ml小工具安卓版 https://app.ttutt.ml 请尽量访问源站,防止本镜像站再次被污染 由于不可抗力的因素,镜像域名随时可能会变更,请记住我们主域名手动修改 pac.txt 添加 我们网站的域名 到规则即可 或者直接使用我们提供的 pac 文件 https://www.ssrshare.us/threads/pac.527/]]></content>
+    <content type="text"><![CDATA[镜像域名论坛https://ttutt.ml SSR小工具小工具 https://ttutt.ml/tool小工具移动版 https://m.ttutt.ml小工具安卓版 https://app.ttutt.ml 主域名 (需要代理访问，但是永不变更，请牢记):论坛https://www.ssrshare.ushttps://www.ssrshare.com 小工具主域名https://www.ssrtool.ushttps://www.ssrtool.com 请尽量访问源站,防止本镜像站再次被污染 由于不可抗力的因素,镜像域名随时可能会变更,请记住我们主域名手动修改 pac.txt 添加 我们网站的域名 到规则即可 或者直接使用我们提供的 pac 文件 https://www.ssrtool.us/static/pac.txt]]></content>
       <tags>
         <tag>域名</tag>
       </tags>
